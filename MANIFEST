@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/String-Compare-Length.t
+lib/String/Compare/Length.pm
+META.yml                                 Module meta-data (added by MakeMaker)

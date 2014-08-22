@@ -5,7 +5,7 @@ use warnings;
 
 our @ISA = qw(Exporter);
 our @EXPORT = qw(compare_array compare_arrays compare_hoa);
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub array_avg_length {
   my $array = shift;
